@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "id": "examplemod",
+    "id": "stackable_stew_and_soup",
     "version": "${version}",
     "name": "${mod_name}",
     "description": "${description}",
@@ -16,7 +16,7 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.cursee.examplemod.ExampleModFabric"
+            "com.cursee.stackable_stew_and_soup.StackableStewAndSoupFabric"
         ]
     },
     "mixins": [

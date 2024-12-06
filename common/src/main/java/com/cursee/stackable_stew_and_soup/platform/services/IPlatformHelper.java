@@ -1,4 +1,4 @@
-package com.cursee.examplemod.platform.services;
+package com.cursee.stackable_stew_and_soup.platform.services;
 
 public interface IPlatformHelper {
 
