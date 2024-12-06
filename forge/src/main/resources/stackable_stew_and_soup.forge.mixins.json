@@ -13,5 +13,6 @@
     ],
     "injectors": {
         "defaultRequire": 1
-    }
+    },
+    "plugin": "com.cursee.stackable_stew_and_soup.MixinConfigForge"
 }
